@@ -8,7 +8,7 @@
 
 Console.Write("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
-double result;
+int result;
 
 for (result = 1; result <= number; result++)
 {
